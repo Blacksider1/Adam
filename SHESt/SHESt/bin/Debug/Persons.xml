@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Persons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <items>
+    <Person>
+      <Name>Адам</Name>
+      <Surname>Цуров</Surname>
+      <Otch>Адамович</Otch>
+      <Pol>м</Pol>
+      <Date>12.07.2019</Date>
+      <Log>adam</Log>
+      <Pas>123</Pas>
+      <Num>+7(133)343434343</Num>
+    </Person>
+  </items>
+</Persons>
